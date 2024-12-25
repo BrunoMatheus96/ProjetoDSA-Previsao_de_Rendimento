@@ -1,0 +1,4 @@
+# Sobre o Projeto
+Este projeto visa aplicar técnicas de Data Science no setor do agronegócio para prever o rendimento das colheitas e otimizar o uso da irrigação.
+
+ Utilizando dados históricos e variáveis ambientais, como índice de vegetação, capacidade do solo, concentração de CO2, níveis de nutrientes, aplicação de fertilizantes, profundidade das raízes, radiação solar, precipitação e umidade, o objetivo é desenvolver um modelo preditivo que auxilie  os  agricultores  a  tomar  decisões  informadas.  Isso  pode  resultar  em  uma  gestão  mais eficiente dos recursos hídricos, aumento da produtividade e sustentabilidade agrícola
